@@ -12,10 +12,7 @@ I hope it will help everyone with the C++ DSA Questions
 * [![Slack](https://img.shields.io/badge/Slack-Shashank-yellow)](https://app.slack.com/client/T0145PE3493/C0140D0LQ78/user_profile/U014JTYJE1Y)
 
 
-# Problem Solutions in C++ 👇
-### Status:
-*⚫ Completed,  🟢 Live*
-
+# Problem & Solutions in C++ 👇
 ---
 
 
