@@ -1,9 +1,8 @@
 
-
-![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
-
 ## This is a 6 Weeks Course
-### Update your repo per day by solving per day questions
+
+### Update your repo by solving per day questions
+I hope it will help everyone with the C++ DSA Questions
 ---
 
 **You can connect with me on:**
