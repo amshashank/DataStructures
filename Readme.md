@@ -2,11 +2,9 @@
 
 ![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
 
-## College: *Dr. APJ Abdul Kalam Technical University*
-
+## This is a 6 Weeks Course
+### Update your repo per day by solving per day questions
 ---
----
-
 
 **You can connect with me on:**
 * [![Instagram](https://img.shields.io/badge/connect-%40ShashankKesarwani-%230077B5?style=flat&logo=Instagram)](https://www.instagram.com/am.shashank)
