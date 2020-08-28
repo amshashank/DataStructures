@@ -2,7 +2,7 @@
 
 ![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
 
-## College: *Institute Of Technology & Management, Lucknow*
+## College: *Dr. APJ Abdul Kalam Technical University*
 
 ---
 ---
